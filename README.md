@@ -37,7 +37,7 @@ No third-party packages required.
 ### Run directly
 
 ```bash
-git clone https://github.com/yourusername/TSnake.git
+git clone https://github.com/fw-log/TSnake.git
 cd TSnake
 python snake.py
 ```
