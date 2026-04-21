@@ -116,18 +116,6 @@ In screensaver mode each bot also computes a **head-danger zone** — every cell
 
 ---
 
-## Screensaver color key
-
-| Color | Snake |
-|-------|-------|
-| 🟢 Green | Snake 1 |
-| 🔵 Cyan | Snake 2 |
-| 🟡 Yellow | Snake 3 |
-| 🟣 Magenta | Snake 4 |
-| ⚪ White | Snake 5 |
-
----
-
 ## License
 
 MIT — do whatever you want with it.
