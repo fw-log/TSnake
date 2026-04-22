@@ -8,7 +8,7 @@
   |_| |____/|_| \_|\___/|_|\_\___|
 ```
 
-> A terminal snake game with human, bot, and fullscreen screensaver modes.  
+> A unix terminal snake game with human, bot, and fullscreen screensaver modes.  
 > Zero dependencies — pure Python stdlib.
 
 ---
